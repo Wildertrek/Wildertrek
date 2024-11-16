@@ -38,9 +38,6 @@ Welcome to my GitHub! I am an AI Architect and Engineering Lead with expertise i
 
 Currently, I lead the development of cutting-edge AI capabilities for the Summit Data Platform at the U.S. Department of Veterans Affairs, empowering innovative solutions for real-world challenges.
 
-Here's your updated section with the **🔬 Microscope** emoji:
-
-
 ## 🔬 Research Interests
 
 - **AI Capability Maturity**: Developing frameworks to assess and enhance AI maturity, focusing on MLOps, CloudOps, and data governance.  
