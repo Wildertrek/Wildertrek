@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/Wildertrek?style=social) 
 ![GitHub stars](https://img.shields.io/github/stars/Wildertrek?style=social)
-![GitHub repos](https://img.shields.io/github/repos/Wildertrek?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/Wildertrek/reponame?style=flat-square)
+![GitHub User's repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=$.public_repos&url=https://api.github.com/users/Wildertrek&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Wildertrek/LLM-App?style=flat-square)
+
+
 [![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wildertrek&show_icons=true&count_private=true&theme=radical)](https://github.com/Wildertrek)
 
 
