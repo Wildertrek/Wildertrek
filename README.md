@@ -17,7 +17,13 @@ Here are some ideas to get you started:
 
 # Welcome to Joseph's GitHub.io
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social) ![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Wildertrek?style=social) 
+![GitHub stars](https://img.shields.io/github/stars/Wildertrek?style=social)
+![GitHub repos](https://img.shields.io/github/repos/Wildertrek?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Wildertrek/reponame?style=flat-square)
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wildertrek&show_icons=true&count_private=true&theme=radical)](https://github.com/Wildertrek)
+
+
 
 ## 👋 About Me
 
