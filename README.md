@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/Wildertrek?style=social) 
 ![GitHub stars](https://img.shields.io/github/stars/Wildertrek?style=social)
 ![GitHub User's repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=$.public_repos&url=https://api.github.com/users/Wildertrek&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/Wildertrek/LLM-App?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Wildertrek/LLM-App?style=flat-square&cacheSeconds=60)
 
 
 [![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wildertrek&show_icons=true&count_private=true&theme=radical)](https://github.com/Wildertrek)
@@ -29,34 +29,46 @@ Here are some ideas to get you started:
 
 ## 👋 About Me
 
-Welcome to my personal GitHub Pages! I am an AI Lead specializing in advancing AI and ML initiatives, particularly within the federal sector. I work on MLOps, data governance, and large-scale AI systems, contributing to both academic research and practical applications. My work spans AI maturity modeling, natural language processing (NLP), large language models (LLMs), and machine learning (ML) deployments. Currently, I'm developing the next generation of AI capability for various organizations or platforms.
+Welcome to my GitHub! I am an AI Architect and Engineering Lead with expertise in advancing AI and ML initiatives, particularly within the federal sector. My work bridges the gap between academic research and practical applications, focusing on:
 
-### Research Interests
+- **AI Engineering**: Designing scalable AI systems that meet enterprise and mission-critical needs.  
+- **MLOps**: Building robust pipelines to support model lifecycle management and operational excellence.  
+- **Data Governance**: Ensuring data quality, security, and compliance across large-scale systems.  
+- **AI Capability Development**: Advancing AI maturity modeling and implementing next-generation NLP and LLM solutions.  
 
-- **AI Capability Maturity**: Creating frameworks to measure and enhance AI maturity across projects, with an emphasis on MLOps, CloudOps, and data governance.
-- **Advanced Applications of LLMs**: Exploring and teaching about large language models, particularly in the areas of retrieval-augmented generation (RAG), function calling, and responsible AI practices.
-- **Personality Models and Psychology in AI**: Integrating psychology trait models with AI to improve applications in learning environments, healthcare, and beyond.
+Currently, I lead the development of cutting-edge AI capabilities for the Summit Data Platform at the U.S. Department of Veterans Affairs, empowering innovative solutions for real-world challenges.
+
+Here's your updated section with the **🔬 Microscope** emoji:
+
+
+## 🔬 Research Interests
+
+- **AI Capability Maturity**: Developing frameworks to assess and enhance AI maturity, focusing on MLOps, CloudOps, and data governance.  
+- **Advanced LLM Applications**: Exploring large language models (LLMs) for retrieval-augmented generation (RAG), function calling, and responsible AI practices.  
+- **Psychology and AI**: Integrating psychological trait models with AI to advance applications in education, healthcare, and personalized learning environments.  
 
 ## 🔍 Projects
 
-### AI Capability Maturity Model
-This initiative involves:
-- AI use-case curation and prioritization for enterprise-wide implementation
-- Development of AI maturity stages with a focus on DevOps, DataOps, and AI Ops layers
+### 🏗️ **AI Capability Maturity Model**
+- Curates and prioritizes AI use cases for enterprise-wide implementation.  
+- Develops AI maturity stages with a focus on enhancing DevOps, DataOps, and AI Ops layers.
 
-### VA GenAI Pipeline (CLEVER Pipeline)
-CLEVER processes over 1.5 million clinical notes daily, enabling insights into social determinants of health and leveraging generative AI for veteran-focused applications.
+### 🧠 **VA GenAI Pipeline (CLEVER Pipeline)**
+- Processes over 1.5 million clinical notes daily to provide actionable insights into social determinants of health.  
+- Leverages generative AI to support veteran-focused applications, enabling scalable NLP solutions.
 
-### VA Public Sector Information Assistant
-- Information Assistant (IA) agent template provides a starting point for organizations to build their own custom generative AI capability to extend the power of Azure OpenAI. It showcases a common scenario using large language models (LLMs) to “chat with your own data” through the Retrieval Augmented Generation (RAG) pattern. 
-- This pattern lets you use the reasoning abilities of LLMs to generate responses based on your domain data without fine-tuning the model. Information Assistant agent template is an end-to-end solution which is a comprehensive reference sample including documentation, source code, and deployment to allow you to take and extend for your own purposes. This agent template showcases integration between Azure and OpenAI's LLMs. 
-- It leverages Azure AI Search for data retrieval and ChatGPT-style Q&A interactions. Using the RAG design pattern with Azure OpenAI's GPT models, it provides a natural language interaction to discover relevant responses to user queries. Azure AI Search simplifies data ingestion, transformation, indexing, and multilingual translation. 
-- The agent adapts prompts based on the model type for enhanced performance. Users can customize settings like temperature and persona for personalized AI interactions. It offers features like explainable thought processes, referenceable citations, and direct content for verification.
+### 🤖 **VA Public Sector Information Assistant**
+- A customizable generative AI template integrating Azure OpenAI with large language models (LLMs).  
+- Employs **Retrieval-Augmented Generation (RAG)** to enable "chat with your own data" capabilities without requiring model fine-tuning.  
+- Key features include:  
+  - **Azure AI Search**: Simplifies data ingestion, transformation, indexing, and multilingual translation for seamless retrieval.  
+  - **Dynamic Prompts**: Adapts based on model type for optimal performance and allows personalized interactions through customizable settings.  
+  - **Explainability and Citations**: Delivers traceable responses with references for verification.  
+- An end-to-end reference solution, complete with documentation and deployable code, to support the creation of domain-specific AI systems.
 
-
-
-### Knowledge Graphs and Ontologies
-Using NIST SP 800-53 as a base, I am building knowledge graphs to visualize control relationships and analyze compliance structures, integrating this with cybersecurity GRC and AI risk management.
+### 🕸️ **Knowledge Graphs and Ontologies**
+- Builds knowledge graphs based on NIST SP 800-53 to visualize control relationships and analyze compliance structures.  
+- Integrates cybersecurity governance, risk, and compliance (GRC) with AI risk management for enhanced oversight.
 
 ## 🧑‍🏫 Teaching & Courses
 
