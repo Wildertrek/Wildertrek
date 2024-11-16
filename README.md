@@ -36,8 +36,16 @@ This initiative involves:
 - AI use-case curation and prioritization for enterprise-wide implementation
 - Development of AI maturity stages with a focus on DevOps, DataOps, and AI Ops layers
 
-### GenAI Pipeline (CLEVER Pipeline)
+### VA GenAI Pipeline (CLEVER Pipeline)
 CLEVER processes over 1.5 million clinical notes daily, enabling insights into social determinants of health and leveraging generative AI for veteran-focused applications.
+
+### VA Public Sector Information Assistant
+- Information Assistant (IA) agent template provides a starting point for organizations to build their own custom generative AI capability to extend the power of Azure OpenAI. It showcases a common scenario using large language models (LLMs) to “chat with your own data” through the Retrieval Augmented Generation (RAG) pattern. 
+- This pattern lets you use the reasoning abilities of LLMs to generate responses based on your domain data without fine-tuning the model. Information Assistant agent template is an end-to-end solution which is a comprehensive reference sample including documentation, source code, and deployment to allow you to take and extend for your own purposes. This agent template showcases integration between Azure and OpenAI's LLMs. 
+- It leverages Azure AI Search for data retrieval and ChatGPT-style Q&A interactions. Using the RAG design pattern with Azure OpenAI's GPT models, it provides a natural language interaction to discover relevant responses to user queries. Azure AI Search simplifies data ingestion, transformation, indexing, and multilingual translation. 
+- The agent adapts prompts based on the model type for enhanced performance. Users can customize settings like temperature and persona for personalized AI interactions. It offers features like explainable thought processes, referenceable citations, and direct content for verification.
+
+
 
 ### Knowledge Graphs and Ontologies
 Using NIST SP 800-53 as a base, I am building knowledge graphs to visualize control relationships and analyze compliance structures, integrating this with cybersecurity GRC and AI risk management.
@@ -52,14 +60,15 @@ I teach **Advanced Applications of Large Language Models (LLMs)**, a graduate co
 
 ## 📈 Current Focus Areas
 
-1. **Expanding NLP Pipelines**: Enhancing NLP pipelines on the Summit Data Platform (SDP) with generative AI and LLM support.
-2. **AI in Compliance**: Applying AI to compliance data, including knowledge graphs for NIST 800-53 controls.
-3. **Data Governance for AI**: Developing a comprehensive AI/ML metamodel to support traceability, security, and governance.
+- **Expanding NLP Pipelines**: Enhancing NLP pipelines on the Summit Data Platform (SDP) with generative AI and LLM support.
+- **Implementing the Public Sector Information Assistant**: VA teams are able to interact with their own data.
+- **AI in Compliance**: Applying AI to compliance data, including knowledge graphs for NIST 800-53 controls and DASF 2.0.
+- **Data Governance for AI**: Developing a comprehensive AI/ML metamodel to support traceability, security, and governance.
 
 ## 🌱 Personal Projects
 
 - **Exploring Personality Models**: Creating a comprehensive character model based on multiple personality theories.
-- **Neo4j Graph Visualizations**: Visualizing personality models and AI maturity models with connected data insights.
+- **Exploring Neo4j Graph Visualizations**: Visualizing personality models and AI maturity models with connected data insights.
 
 ## 📫 Contact
 
