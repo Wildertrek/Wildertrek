@@ -1,100 +1,58 @@
-
-
-<!--
-**Wildertrek/Wildertrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Welcome to Joseph's GitHub.io
+# Welcome to Joseph's GitHub
 
 ![GitHub followers](https://img.shields.io/github/followers/Wildertrek?style=social) 
 ![GitHub stars](https://img.shields.io/github/stars/Wildertrek?style=social)
 ![GitHub User's repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=$.public_repos&url=https://api.github.com/users/Wildertrek&style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Wildertrek/LLM-App?style=flat-square&cacheSeconds=60)
 
-
 [![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wildertrek&show_icons=true&count_private=true&theme=radical)](https://github.com/Wildertrek)
-
-
 
 ## 👋 About Me
 
-Welcome to my GitHub! I am an AI Architect and Engineering Lead with expertise in advancing AI and ML initiatives, particularly within the federal sector. My work bridges the gap between academic research and practical applications, focusing on:
+I am an **AI Researcher and Applied Engineer** dedicated to bridging the gap between theoretical AI alignment and production reality. Currently, I serve as the **Director of AI at US AI**, where I lead the vision for secure, scalable, and human-aligned artificial intelligence across federal, defense, and commercial sectors.
 
-- **AI Engineering**: Designing scalable AI systems that meet enterprise and mission-critical needs.  
-- **MLOps**: Building robust pipelines to support model lifecycle management and operational excellence.  
-- **Data Governance**: Ensuring data quality, security, and compliance across large-scale systems.  
-- **AI Capability Development**: Advancing AI maturity modeling and implementing next-generation NLP and LLM solutions.  
+My work treats AI as an empirical science—combining large-scale observational instruments with rigorous behavioral evaluation.
 
-Currently, I lead the development of cutting-edge AI capabilities for the Summit Data Platform at the U.S. Department of Veterans Affairs, empowering innovative solutions for real-world challenges.
+## 🔬 Research & PhD Focus (ABD)
 
-## 🔬 Research Interests
+My doctoral research at the **University of Tennessee** focuses on **Personality-Aware AI** and the development of novel evaluation frameworks for LLM agents.
 
-- **AI Capability Maturity**: Developing frameworks to assess and enhance AI maturity, focusing on MLOps, CloudOps, and data governance.  
-- **Advanced LLM Applications**: Exploring large language models (LLMs) for retrieval-augmented generation (RAG), function calling, and responsible AI practices.  
-- **Psychology and AI**: Integrating psychological trait models with AI to advance applications in education, healthcare, and personalized learning environments.  
+- **MindBench Studio**: An experimentation hub for evaluating the **trait stability** and cooperative dynamics of AI agents over long-context interactions.
+- **Computational Atlas of Personality**: A machine-readable taxonomy of 44 psychometric models (ACM TIST) designed to measure how AI systems represent human values.
+- **PRISM Protocol**: A framework for dynamic state representation to enable more **steerable** and **interpretable** agentic systems.
 
-## 🔍 Projects
+## 🏗️ Featured Projects
 
-### 🏗️ **AI Capability Maturity Model**
-- Curates and prioritizes AI use cases for enterprise-wide implementation.  
-- Develops AI maturity stages with a focus on enhancing DevOps, DataOps, and AI Ops layers.
+### 🧠 **VA CLEVER Pipeline**
+- **Role:** Architecture & Implementation Lead.
+- **Impact:** Developed the VA’s first production GenAI pipeline, processing **1.5M+ clinical notes daily** at **FedRAMP High**.
+- **Innovation:** Utilized the pipeline as an observational instrument to detect **Social Determinants of Mental Health (SDoH)**, directly connecting model capabilities to human wellbeing.
 
-### 🧠 **VA GenAI Pipeline (CLEVER Pipeline)**
-- Processes over 1.5 million clinical notes daily to provide actionable insights into social determinants of health.  
-- Leverages generative AI to support veteran-focused applications, enabling scalable NLP solutions.
+### 🤖 **Public Sector AI Information Assistant**
+- An enterprise-grade RAG reference architecture integrating **Azure OpenAI** with large-scale data retrieval.
+- Features dynamic prompting, explainability, and citation-traceable responses for high-stakes decision support.
 
-### 🤖 **VA Public Sector Information Assistant**
-- A customizable generative AI template integrating Azure OpenAI with large language models (LLMs).  
-- Employs **Retrieval-Augmented Generation (RAG)** to enable "chat with your own data" capabilities without requiring model fine-tuning.  
-- Key features include:  
-  - **Azure AI Search**: Simplifies data ingestion, transformation, indexing, and multilingual translation for seamless retrieval.  
-  - **Dynamic Prompts**: Adapts based on model type for optimal performance and allows personalized interactions through customizable settings.  
-  - **Explainability and Citations**: Delivers traceable responses with references for verification.  
-- An end-to-end reference solution, complete with documentation and deployable code, to support the creation of domain-specific AI systems.
+### 🕸️ **Governance & Knowledge Graphs**
+- Built knowledge graphs based on **NIST SP 800-53** to visualize compliance relationships and automate AI risk management.
 
-### 🕸️ **Knowledge Graphs and Ontologies**
-- Builds knowledge graphs based on NIST SP 800-53 to visualize control relationships and analyze compliance structures.  
-- Integrates cybersecurity governance, risk, and compliance (GRC) with AI risk management for enhanced oversight.
+## 🧑‍🏫 Teaching & Pedagogy
 
-## 🧑‍🏫 Teaching & Courses
-
-I teach **Advanced Applications of Large Language Models (LLMs)**, a graduate course that dives into foundational AI models, prompt engineering, ethical considerations, and hands-on projects. The course covers:
-- Foundations of LLMs and transformers
-- Prompt engineering and RAG
-- Practical applications with LangChain, LlamaIndex, and graph data structures with LangGraph
-[AA-LLM-Course](https://github.com/Wildertrek/AA-LLM-Course)
+I authored and teach **COSC 650: Advanced Applications of LLMs**, a graduate-level course covering:
+- **Foundations**: Transformers, embeddings, and historical LM architectures.
+- **Applied AI**: RAG pipelines, Agentic Workflows, and Plan-and-Execute flows.
+- **Responsible AI**: Constitutional AI, evaluation metrics, and ethical safety boundaries.
+- [AA-LLM-Course Repository](https://github.com/Wildertrek/AA-LLM-Course)
 
 ## 📈 Current Focus Areas
 
-- **Expanding NLP Pipelines**: Enhancing NLP pipelines on the Summit Data Platform (SDP) with generative AI and LLM support.
-- **Implementing the Public Sector Information Assistant**: VA teams are able to interact with their own data.
-- **AI in Compliance**: Applying AI to compliance data, including knowledge graphs for NIST 800-53 controls and DASF 2.0.
-- **Data Governance for AI**: Developing a comprehensive AI/ML metamodel to support traceability, security, and governance.
+- **Behavioral Benchmarking**: Expanding **MindBench** to detect "alignment faking" and deceptive compliance in LLM agents.
+- **Persona Vectors**: Researching the stability of character traits and "persona vectors" in multi-agent social dynamics.
+- **Empirical Evaluation**: Building the "telescopes" (like **Clio**) required to observe and steer the societal impacts of AI.
 
-## 🌱 Personal Projects
-
-- **Exploring Personality Models**: Creating a comprehensive character model based on multiple personality theories.
-- **Exploring Neo4j Graph Visualizations**: Visualizing personality models and AI maturity models with connected data insights.
-
-## 📫 Contact
-
-Feel free to reach out for collaborations, discussions on AI applications, or general questions:
+## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/josephraetano)
 - [X](https://x.com/JosephRaetano)
 
-
 ---
-
-Thank you for visiting my page!
+"Understanding the 'latent' traits of ourselves and others is the key to breaking down barriers and fostering empathy."
