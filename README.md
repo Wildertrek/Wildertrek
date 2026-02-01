@@ -5,15 +5,6 @@
 ![Repositories](https://img.shields.io/badge/dynamic/json?color=007ec6&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWildertrek&style=for-the-badge&logo=github)
 ![Profile Rating](https://img.shields.io/badge/Profile%20Rating-A%2B-success?style=for-the-badge&logo=github)
 
-[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wildertrek&show_icons=true&count_private=true&theme=radical&hide_rank=true)](https://github.com/Wildertrek)
-
----
-
-## 🚀 Impact by the Numbers
-| **1.5M+** | **$2.3M+** | **FedRAMP High** | **GS-15** |
-| :---: | :---: | :---: | :---: |
-| Daily Clinical Notes Processed (VA) | Research Funding Secured | Security Authorization Achieved | Former Federal AI Director |
-
 ---
 
 ## 👋 About Me
