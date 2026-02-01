@@ -1,10 +1,11 @@
 # Welcome to Joseph's GitHub
 
-![GitHub followers](https://img.shields.io/github/followers/Wildertrek?style=social) 
-![GitHub stars](https://img.shields.io/github/stars/Wildertrek?style=social)
-![GitHub User's repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=$.public_repos&url=https://api.github.com/users/Wildertrek&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Wildertrek?style=for-the-badge&logo=github&color=24292e)
+![GitHub stars](https://img.shields.io/github/stars/Wildertrek?style=for-the-badge&logo=github&color=24292e)
+![Repositories](https://img.shields.io/badge/dynamic/json?color=007ec6&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWildertrek&style=for-the-badge&logo=github)
+![Profile Rating](https://img.shields.io/badge/Profile%20Rating-A%2B-success?style=for-the-badge&logo=github)
 
-[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wildertrek&show_icons=true&count_private=true&theme=radical)](https://github.com/Wildertrek)
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wildertrek&show_icons=true&theme=radical&hide_rank=true)](https://github.com/Wildertrek)
 
 ---
 
@@ -36,17 +37,39 @@ I am an **AI Researcher and Applied Engineer** bridging the gap between theoreti
 
 ---
 
-## 🔬 Research Focus (PhD Candidate)
+## 🔬 Dissertation Research: Empirical AI Evaluation
 
-My research at the **University of Tennessee** focuses on **Personality-Aware AI** and **Societal Impacts**.
+My research at the **University of Tennessee** focuses on **Personality-Aware AI** and the **PRISM Protocol**. I treat agents as latent-state dynamical systems, evaluating how trait-based conditioning impacts behavior, alignment, and coordination.
 
-### 🧩 [MindBench Studio](https://github.com/Wildertrek/mindbench) (Private Beta)
-An experimentation hub for evaluating **trait stability**, **alignment faking**, and **cooperative dynamics** in LLM agents.
-*   *Key Tech:* BookNLP, PRISM Protocol, Multi-Agent Simulation.
+### 🧩 [MindBench Studio](https://github.com/Wildertrek/mindbench) (Execution Harness)
+An experimentation hub for evaluating agent behavior across five rigorous research pillars. It repurposes narrative grounding (BookNLP) into actionable personality evidence.
+*   **PRISM Protocol:** A trait-state protocol for agents involving State Vectors ($P_S$), Trajectories ($\Delta P_S$), and Valence ($V$).
+*   **Experimental Pillars:**
+    1.  **Trait Realization:** Validating grounded character trait inference.
+    2.  **Perturbation Stability:** Testing resilience under scripted contradictions.
+    3.  **Matched Performance:** Aligning personality with task success (AgentBench).
+    4.  **Multi-Agent Coordination:** Team dynamics and communication efficiency.
+    5.  **Narrative Dynamics:** Arc stability and social emergence.
+*   **Key Metrics:** Psychometric Agreement (PA), Trait Discriminability (TD), Drift Magnitude (DM), and Collapse Time (CT).
 
-### 🗺️ [Computational Atlas of Personality](https://github.com/Wildertrek/survey) (Public)
-A machine-readable taxonomy of **44 psychometric models** (ACM TIST) designed to measure how AI systems represent human values.
-*   *Key Artifact:* [Survey Repository](https://github.com/Wildertrek/survey)
+### 🗺️ [Computational Atlas of Personality](https://github.com/Wildertrek/survey) (Research)
+A machine-readable taxonomy of **44 psychometric models** (Submitted to **ACM TIST**, 2025). 
+*   **Standardization:** Mapping models into a 5-part lexical schema (**Factor, Adjective, Synonym, Verb, Noun**).
+*   **Scope:** Covers Trait-Based (OCEAN/HEXACO), Narcissism, Clinical/Health, and Interpersonal models.
+*   **Artifact:** [Personality-Trait-Models](https://github.com/Wildertrek/Personality-Trait-Models) — Foundational library for optimizing recommender systems and latent trait modeling.
+
+---
+
+## 📚 Pedagogy & Teaching
+
+### 🎓 [AA-LLM-Course](https://github.com/Wildertrek/AA-LLM-Course) (Graduate Curriculum)
+A complete graduate-level curriculum (COSC 650, UTK) covering the practical applications of Generative AI.
+*   **Modules:** RAG Foundations, Advanced Prompt Engineering, Agentic Workflows (Plan-and-Execute), and Constitutional AI.
+*   **Resources:** 400+ curated research papers, 50+ notebooks, and custom "Markdown Cards" for LMS integration.
+
+### 📓 [DS-Student-Resources](https://github.com/Wildertrek/DS-Student-Resources) (Data Science Companion)
+A 10-module curriculum designed for students bridging the gap from basic statistics to production machine learning.
+*   **Highlights:** Statistical programming in R, Big Data (DS107), and SQL/NoSQL Databases (DS108).
 
 ---
 
@@ -54,25 +77,19 @@ A machine-readable taxonomy of **44 psychometric models** (ACM TIST) designed to
 
 ### 🧠 **VA CLEVER Pipeline (Observational Science)**
 *   **Role:** Lead Architect & Implementer.
-*   **Impact:** Deployed the VA’s first GenAI pipeline handling **1.5M+ daily records**.
-*   **Safety:** Used the system to detect **Social Determinants of Mental Health (SDoH)**, "closing the loop" between model usage and veteran wellbeing.
-
-### 🎓 [AA-LLM-Course](https://github.com/Wildertrek/AA-LLM-Course) (Pedagogy)
-*   A graduate-level curriculum I authored covering **RAG**, **Agentic Workflows**, and **Constitutional AI**.
-*   *Live Repo:* [github.com/Wildertrek/AA-LLM-Course](https://github.com/Wildertrek/AA-LLM-Course)
+*   **Impact:** Deployed the VA’s first GenAI pipeline handling **1.5M+ daily clinical notes**.
+*   **Safety:** Detects **Social Determinants of Mental Health (SDoH)** to improve veteran outcomes through closed-loop AI observation.
 
 ---
 
 ## 🏆 Honors & Funding
-
 *   **$1.34M AVIN Innovation Grant:** Integrating personality models into autonomous systems.
 *   **$1M ENCQOR 5G Grant:** AI/ML behavioral integration in connected corridors.
-*   **VA Innovation Award:** For the CLEVER Pipeline & AI-Assistant (w/ Stanford Medicine & Microsoft).
-*   **NSA Scientific Achievement Award:** Critical mission research.
+*   **VA Innovation Award:** For the CLEVER Pipeline & AI-Assistant.
+*   **Scientific Achievement Award:** Critical mission research.
 
 ---
 
 ## 📫 Connect
-
 - [LinkedIn](https://www.linkedin.com/in/josephraetano)
 - [X](https://x.com/JosephRaetano)
