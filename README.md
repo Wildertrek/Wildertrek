@@ -5,9 +5,7 @@
 ![Repositories](https://img.shields.io/badge/dynamic/json?color=007ec6&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWildertrek&style=for-the-badge&logo=github)
 ![Profile Rating](https://img.shields.io/badge/Profile%20Rating-A%2B-success?style=for-the-badge&logo=github)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wildertrek&show_icons=true&theme=radical&hide_rank=true&count_private=true" alt="Joseph's GitHub stats" />
-</div>
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wildertrek&show_icons=true&count_private=true&theme=radical&hide_rank=true)](https://github.com/Wildertrek)
 
 ---
 
