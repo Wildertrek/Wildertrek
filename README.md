@@ -1,6 +1,6 @@
 # Welcome to Joseph's GitHub
 
-![GitHub followers](https://img.shields.io/github/followers/Wildertrek?style=for-the-badge&logo=github&color=24292e)
+![GitHub followers](https://img.shields.io/badge/dynamic/json?color=24292e&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWildertrek&style=for-the-badge&logo=github)
 ![GitHub stars](https://img.shields.io/github/stars/Wildertrek?style=for-the-badge&logo=github&color=24292e)
 ![Repositories](https://img.shields.io/badge/dynamic/json?color=007ec6&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWildertrek&style=for-the-badge&logo=github)
 ![Profile Rating](https://img.shields.io/badge/Profile%20Rating-A%2B-success?style=for-the-badge&logo=github)
