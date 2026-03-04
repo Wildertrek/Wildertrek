@@ -1,11 +1,14 @@
 # Welcome to Joseph's GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wildertrek&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Joseph's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wildertrek&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
+
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wildertrek&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wildertrek&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+</div>
 
 ## 👋 About Me
 
