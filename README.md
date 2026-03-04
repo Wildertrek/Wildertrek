@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wildertrek&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wildertrek&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Followers](https://img.shields.io/badge/Followers-46-24292e?style=for-the-badge&logo=github)
+![Total Stars](https://img.shields.io/badge/Total%20Stars-130-yellow?style=for-the-badge&logo=github)
+![Repositories](https://img.shields.io/badge/Repositories-88-007ec6?style=for-the-badge&logo=github)
 
 ---
 
@@ -26,7 +26,7 @@ My research at the **University of Tennessee** focuses on **Personality-Aware AI
 
 ### 🧩 [MindBench Studio](https://github.com/Wildertrek/mindbench) (Execution Harness)
 An experimentation hub for evaluating agent behavior across five rigorous research pillars. It repurposes narrative grounding into actionable personality evidence.
-*   **PRISM Protocol:** A trait-state protocol for agents involving State Vectors ($P_S$), Trajectories ($\Delta P_S$), and Valence ($V$).
+*   **PRISM Protocol:** A trait-state protocol for agents involving State Vectors ($P_S$), Trajectories ($\Delta P_S$), and Valence ($).
 *   **Key Metrics:** Psychometric Agreement (PA), Trait Discriminability (TD), Drift Magnitude (DM), and Collapse Time (CT).
 *   **Status:** Under Review (**ACM TIST, 2026**).
 
@@ -72,8 +72,8 @@ A complete graduate-level curriculum (COSC 650, UTK) covering the practical appl
 
 ## 🏆 Honors & Awards
 *   **VA Innovation Award (2024):** For the CLEVER Pipeline & AI-Assistant deployment.
-*   **$1.34M AVIN Innovation Grant:** Integrating personality models into autonomous systems.
-*   **$1M ENCQOR 5G Grant:** AI/ML behavioral integration in connected corridors.
+*   **.34M AVIN Innovation Grant:** Integrating personality models into autonomous systems.
+*   **M ENCQOR 5G Grant:** AI/ML behavioral integration in connected corridors.
 *   **NSA Scientific Achievement Award:** Critical mission research in boundary defense.
 
 ---
