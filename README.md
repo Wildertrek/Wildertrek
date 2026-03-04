@@ -1,8 +1,9 @@
 # Welcome to Joseph's GitHub
 
-![GitHub followers](https://img.shields.io/badge/dynamic/json?color=24292e&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWildertrek&style=for-the-badge&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/Wildertrek?style=for-the-badge&logo=github&color=24292e)
-![Repositories](https://img.shields.io/badge/dynamic/json?color=007ec6&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWildertrek&style=for-the-badge&logo=github)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wildertrek&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Joseph's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wildertrek&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
