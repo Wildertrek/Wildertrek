@@ -35,9 +35,10 @@ Applied research at **USAI** to canonicalize heterogeneous security telemetry at
 *   **Vision-to-Graph:** Automating the extraction of nodes/edges from security diagrams for automated ATO analysis.
 
 ### 🗺️ [Computational Atlas of Personality](https://github.com/Wildertrek/survey)
-A machine-readable taxonomy of **44 psychometric models**. 
-*   **Standardization:** Mapping models into a 5-part lexical schema (**Factor, Adjective, Synonym, Verb, Noun**).
-*   **Artifact:** [Personality-Trait-Models](https://github.com/Wildertrek/Personality-Trait-Models) — Foundational library for optimizing recommender systems.
+A machine-readable atlas of **44 psychometric models** across seven psychological traditions. **Published in ACM Transactions on Intelligent Systems and Technology (TIST), 2026** — [doi.org/10.1145/3828667](https://doi.org/10.1145/3828667). 
+*   **CPA (Computational Personality Atlas):** every construct encoded as a *factor chain* — a 5-part descriptor (**Factor, Adjective, Synonym, Verb, Noun**), 6,694 chains across 358 factors.
+*   **SPI (Semantic Personality Index):** a FAISS-based semantic index for comparing and retrieving personality constructs across frameworks.
+*   **Open release:** standardized datasets, trained classifiers, embeddings, and reproducibility notebooks for all 44 models.
 
 ---
 
